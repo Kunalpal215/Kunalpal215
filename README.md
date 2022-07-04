@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Pal</h1>
-<h3 align="center">I am passionate for web and app development</h3>
-
+<h2 align="center">I do App and Web development</h2>
+<img src="./assets/readme-banner.svg" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpal215&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpal215" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalpal215" alt="kunalpal215" /></a> </p>
 
 - 🔭 I’m currently working as Developer at **Students-web-committee (IIT Guwahati)**
