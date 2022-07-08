@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Whenever I try something new, I tend to grasp everything at once and ends up learning little.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Skills and Stats: </h3>
 <p align="left">
 </p>
 
