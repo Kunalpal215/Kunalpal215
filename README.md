@@ -3,10 +3,10 @@
 <img src="./assets/readme-banner.svg" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpal215&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpal215" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalpal215" alt="kunalpal215" /></a> </p>
-
+<img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
 - 🔭 I’m currently working as Developer at **Students-web-committee (IIT Guwahati)**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **ReactJS and Web3 Dapp Development**
 
 - 👯 I’m looking to collaborate on **App & Web development projects**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kunalpal215@gmail.com**
 
-- ⚡ Fun fact **Nothing 🙃**
+- ⚡ Fun fact **Whenever I try something new, I tend to grasp everything at once and ends up learning little.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
