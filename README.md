@@ -4,16 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpal215&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpal215" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunalpal215" alt="kunalpal215" /></a> </p>
 <img align="right" src="./assets/daftpunktocat-thomas.gif" alt="daftpunktocat" height="300" width="300"/>
-<p></p>
-- 🔭 I’m currently working as Developer at **Students-web-committee (IIT Guwahati)**
+
+- 🔭 I’m currently working as Developer at Students-web-committee (IIT Guwahati)
 
 - 🌱 I’m currently learning **ReactJS and Web3 Dapp Development**
 
 - 👯 I’m looking to collaborate on **App & Web development projects**
 
-- 💬 Ask me about **Flutter, Firebase, NodeJS**
+- 💬 Ask me about **My Tech Stack**
 
-- 📫 How to reach me **kunalpal215@gmail.com**
+- 📫 How to reach me **kunalpal215@gmail.com or k.pal@iitg.ac.in**
 
 - ⚡ Fun fact **Whenever I try something new, I tend to grasp everything at once and ends up learning little.**
 
