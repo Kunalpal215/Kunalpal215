@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kunalpal215@gmail.com or k.pal@iitg.ac.in**
 
-- ⚡ Fun fact **Whenever I try something new, I tend to grasp everything at once and ends up learning little.**
+- ⚡ Fun fact **My Philosphy is to learn everything slowly so, that It stays in my mind**
 
 <h3 align="left">My Skills and Stats: </h3>
 <p align="left">
