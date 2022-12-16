@@ -1,4 +1,4 @@
-<h1 align="center">Jai Shree Ram 👋, I'm Kunal Pal</h1>
+<h1 align="center">Namaste 👋, I'm Kunal Pal</h1>
 <h2 align="center">I do App and Web development</h2>
 <img src="./assets/readme-banner.svg" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunalpal215&label=Profile%20views&color=0e75b6&style=flat" alt="kunalpal215" /> </p>
